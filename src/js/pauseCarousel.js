@@ -1,6 +1,6 @@
 
 $('.carousel').carousel({
-  interval: 3000
+  interval: 3000 
 });
 
 //Function to switch on/off carousel when click on "See Our Work" button
